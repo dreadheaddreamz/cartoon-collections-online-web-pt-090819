@@ -5,7 +5,7 @@ end
 end
 
 def summon_captain_planet(veggies)
-  veggies.map 
+  veggies.map { |call| 
   
 end
 
